@@ -15,4 +15,6 @@ app/*/*/*/__pycache__/
 venv/
 
 # Local PostgreSQL data
-data/
+# data/
+
+/data
